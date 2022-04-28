@@ -1,1 +1,1 @@
-# myschooboot
+# my_school
